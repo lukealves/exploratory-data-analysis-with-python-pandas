@@ -9,9 +9,7 @@ This project involves analyzing data related to roller coasters from all over th
 3. `matplotlib.pylab`
 4. `seaborn`
 
-# Steps Involved
-
-The project can be broken down into the following steps:
+# Steps:
 
 # Imports and Reading Data
 
