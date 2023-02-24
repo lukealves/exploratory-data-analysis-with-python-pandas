@@ -4,10 +4,10 @@ This project involves analyzing data related to roller coasters from all over th
 
 # Libraries Used
 
-1. pandas
-2. numpy
-3. matplotlib.pylab
-4. seaborn
+1. `pandas`
+2. `numpy`
+3. `matplotlib.pylab`
+4. `seaborn`
 
 # Steps Involved
 
